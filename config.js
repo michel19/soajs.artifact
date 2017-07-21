@@ -7,6 +7,7 @@ module.exports = {
     serviceGroup: "SOAJS artifact",
     extKeyRequired: false,
     type: "service",
+	oauth: false,
     prerequisites: {
         cpu: '',
         memory: ''
