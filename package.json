@@ -18,7 +18,7 @@
     "node": "*"
   },
   "dependencies": {
-    "lodash": "4.17.4",
+    "lodash": "4.17.5",
     "soajs": "1.0.*"
   },
   "devDependencies": {
@@ -34,6 +34,6 @@
     "mocha": "3.2.0",
     "shelljs": "0.7.5",
     "request": "2.79.0",
-    "soajs.mongodb.data" : "1.0.*"
+    "soajs.mongodb.data": "1.0.*"
   }
 }
