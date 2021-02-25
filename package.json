@@ -18,8 +18,8 @@
     "node": "*"
   },
   "dependencies": {
-    "lodash": "4.17.4",
-    "soajs": "1.0.*"
+    "lodash": "4.17.21",
+    "soajs": "4.0.21"
   },
   "devDependencies": {
     "grunt": "0.4.5",
